@@ -1,0 +1,28 @@
+{
+  "id": "a19e2271-1c5e-40ca-827e-db9f07f23765",
+  "name": "ALProject1",
+  "publisher": "MR Kristoffer",
+  "brief": "Very brief",
+  "description": "Seminar Module at Pulsen",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features" : [
+    "TranslationFile"
+  ],
+  "showMyCode" : true,
+  "target": "Internal",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
