@@ -27,7 +27,7 @@ page 50101 "CSD Seminar Page"
                 }
                 field("Seminar Duration"; "Seminar Duration") { }
                 field("Minimum Participants"; "Minimum Participants") { }
-                //field("Maximum Participants"; "Maximum Participants") { }
+                field("Maximum Participants"; "Maximum Participants") { }
                 field(Blocked; Blocked) { }
                 field("Last Date Modified"; "Last Date Modified") { }
 
