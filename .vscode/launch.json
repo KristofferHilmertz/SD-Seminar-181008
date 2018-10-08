@@ -8,9 +8,8 @@
             "server": "http://localhost",
             "serverInstance": "BC130",
             "authentication": "Windows",
-            
-         
-            "breakOnError": true,
+          
+                     "breakOnError": true,
             "schemaUpdateMode": "Recreate"
          
         }
